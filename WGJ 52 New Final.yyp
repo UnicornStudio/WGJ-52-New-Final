@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0a29e856-1998-4d0b-8ae5-693a709b9d9e",
+            "Value": {
+                "id": "13f5569e-c122-4e76-88a6-0845a05a1232",
+                "resourcePath": "sprites\\spr_wall_2\\spr_wall_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b6cf715-9b4c-4870-ac74-fa1443631925",
             "Value": {
                 "id": "484eefa0-ca94-4ca6-99d7-487d0fffe624",
@@ -95,10 +103,34 @@
             }
         },
         {
+            "Key": "4e1dd606-de20-40a8-915e-503af7f02678",
+            "Value": {
+                "id": "a0d2ea11-3564-4fd0-9e12-c5945c2f36e2",
+                "resourcePath": "sprites\\spr_catwalk_1\\spr_catwalk_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "57da61b9-6ef3-403a-b5a6-fa2713558947",
+            "Value": {
+                "id": "f55e54ff-978b-4bc3-8bb8-1133502481a6",
+                "resourcePath": "sprites\\spr_window_1\\spr_window_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6be3fd76-234b-49e2-8802-9ef05fad7ea4",
             "Value": {
                 "id": "ef38e29c-c3e0-4de8-ac88-582bc06c8a40",
                 "resourcePath": "views\\6be3fd76-234b-49e2-8802-9ef05fad7ea4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8865e4d6-c5d1-47da-8246-1bf3c7753ef2",
+            "Value": {
+                "id": "b032be45-1f72-45fe-b933-25220d7bb6ff",
+                "resourcePath": "views\\8865e4d6-c5d1-47da-8246-1bf3c7753ef2.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -114,7 +146,7 @@
             "Key": "91aadcc8-c409-4e33-a489-2253cb9a47dc",
             "Value": {
                 "id": "ea2c3a0a-e836-40e0-9cec-96f0be20e854",
-                "resourcePath": "sprites\\s_wall_1\\s_wall_1.yy",
+                "resourcePath": "sprites\\spr_wall_1\\spr_wall_1.yy",
                 "resourceType": "GMSprite"
             }
         },
