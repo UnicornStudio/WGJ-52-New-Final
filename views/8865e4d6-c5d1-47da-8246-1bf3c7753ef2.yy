@@ -8,7 +8,9 @@
         "1d196af9-0893-4796-bf7f-f5b8edd0cfdf",
         "4e1dd606-de20-40a8-915e-503af7f02678",
         "7f884a11-5e38-4a57-8ec5-c10efb64380d",
-        "1195a555-fc3f-4ece-871a-645f21c20ce4"
+        "e1e10d34-c138-4c1b-8f0b-94fd0bce848a",
+        "1195a555-fc3f-4ece-871a-645f21c20ce4",
+        "0cb3002a-b066-4283-9126-8ee9a5f3082f"
     ],
     "filterType": "GMSprite",
     "folderName": "Building",

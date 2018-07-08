@@ -4,5 +4,3 @@ vspd = 0
 spd = 2;
 
 image_speed = 1;
-
-xscale = 1;

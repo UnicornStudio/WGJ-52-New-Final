@@ -1,23 +1,23 @@
 {
-    "id": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae",
+    "id": "69fcee79-44de-4d5f-ae97-753be559cc76",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_room_wall",
+    "name": "o_roof_joiner",
     "eventList": [
         {
-            "id": "d564c465-2bcf-4cdf-ba56-64b922a536ab",
+            "id": "693859a8-67a4-4f1c-a982-823b48bf9712",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae"
+            "m_owner": "69fcee79-44de-4d5f-ae97-753be559cc76"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "c3f1443c-5e55-49f7-802e-c19d58130a15",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1195a555-fc3f-4ece-871a-645f21c20ce4",
+    "spriteId": "e1e10d34-c138-4c1b-8f0b-94fd0bce848a",
     "visible": true
 }

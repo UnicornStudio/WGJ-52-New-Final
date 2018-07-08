@@ -1,19 +1,10 @@
 {
-    "id": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae",
+    "id": "a4517a4e-9386-45b7-b17f-7eecfb38a45f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_room_wall",
+    "name": "obj_crate",
     "eventList": [
-        {
-            "id": "d564c465-2bcf-4cdf-ba56-64b922a536ab",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1195a555-fc3f-4ece-871a-645f21c20ce4",
+    "spriteId": "2554093a-e1d5-466f-959d-6f412e98e0e7",
     "visible": true
 }

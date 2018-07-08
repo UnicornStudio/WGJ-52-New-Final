@@ -22,9 +22,9 @@ if (place_meeting(x, y+vspd, o_solid_parent)) {
 y += vspd;
 
 if mouse_x > x{
-	xscale = 1;
+	image_xscale = 1;
 }else{
-	xscale = -1;	
+	image_xscale = -1;	
 }
 
 if hspd != 0 or vspd != 0{
