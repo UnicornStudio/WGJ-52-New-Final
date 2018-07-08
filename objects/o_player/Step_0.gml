@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 /// Movement
-var hspd = (keyboard_check(ord("D")) - keyboard_check(ord("A")))*spd;
-var vspd = (keyboard_check(ord("S")) - keyboard_check(ord("W")))*spd;
+hspd = (keyboard_check(ord("D")) - keyboard_check(ord("A")))*spd;
+vspd = (keyboard_check(ord("S")) - keyboard_check(ord("W")))*spd;
 
 if (place_meeting(x+hspd, y, o_solid_parent)) {
 	while(!place_meeting(x+sign(hspd),y,o_solid_parent)){
@@ -10,7 +10,7 @@ if (place_meeting(x+hspd, y, o_solid_parent)) {
 	}
 	hspd = 0
 }
- x += hspd;
+x += hspd;
 
 // Vertical movement
 if (place_meeting(x, y+vspd, o_solid_parent)) {
