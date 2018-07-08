@@ -1,19 +1,10 @@
 {
-    "id": "25bae9e1-c1b2-4dad-9ad5-a6d59c22e7b8",
+    "id": "d642b37f-5525-4411-9da2-e6375e6f5cd4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_exit",
+    "name": "o_room",
     "eventList": [
-        {
-            "id": "0439425a-b867-4184-918e-d3761a297255",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "25bae9e1-c1b2-4dad-9ad5-a6d59c22e7b8"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "310bdfb3-62e6-4789-8c8d-2d52b4c2d79a",
+    "spriteId": "7f884a11-5e38-4a57-8ec5-c10efb64380d",
     "visible": true
 }

@@ -1,28 +1,18 @@
 {
-    "id": "20cf0f2a-2974-4c55-9a9a-3d5ee1f48e96",
+    "id": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_door",
+    "name": "o_room_wall",
     "eventList": [
         {
-            "id": "f49a3df7-4fd8-42e7-9ba5-d0c953f8c163",
+            "id": "d564c465-2bcf-4cdf-ba56-64b922a536ab",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "20cf0f2a-2974-4c55-9a9a-3d5ee1f48e96"
-        },
-        {
-            "id": "78fe819d-01b6-422b-8496-885963a87d65",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "20cf0f2a-2974-4c55-9a9a-3d5ee1f48e96"
+            "m_owner": "0f79cf2e-2534-4496-816f-fb0f5fbdd7ae"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "310bdfb3-62e6-4789-8c8d-2d52b4c2d79a",
+    "spriteId": "1195a555-fc3f-4ece-871a-645f21c20ce4",
     "visible": true
 }
