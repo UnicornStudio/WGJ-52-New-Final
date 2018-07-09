@@ -17,3 +17,6 @@ hspd = 0
 vspd = 0
 
 cooldown = 0
+
+hp = 2
+invin = 6

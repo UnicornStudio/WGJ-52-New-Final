@@ -33,3 +33,24 @@ if hspd != 0 or vspd != 0{
 }else{
 	sprite_index = s_player_idle_male	
 }
+
+if cooldown > 0{
+	cooldown -= 1	
+}
+
+if cooldown <= 0 and mouse_check_button(mb_left) and !shooting{
+	shooting = true
+	cooldown = 30
+	var b = instance_create_layer(x,y,"Instances",o_bullet_player)
+	b.direction = point_direction(x,y,mouse_x,mouse_y) + irandom_range(-5,5)
+	b.image_angle = b.direction
+}
+
+if shooting{
+	image_speed = 1
+	sprite_index = s_enemy_1_shooting
+
+	if animation_hit_frame(sprite_get_number(sprite_index)-1){
+		shooting = false	
+	}
+}

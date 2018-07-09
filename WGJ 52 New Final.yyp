@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "25444b56-034a-4273-bcf3-92b6d9da8794",
+            "Value": {
+                "id": "5a526cae-c7b3-41df-af1a-b04612399acf",
+                "resourcePath": "objects\\o_bullet_player\\o_bullet_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2554093a-e1d5-466f-959d-6f412e98e0e7",
             "Value": {
                 "id": "089ef434-b6cf-413e-92c6-a0f6deb63976",
@@ -370,7 +378,7 @@
             "Key": "a07d3e6b-1ef8-4748-845d-5db449fe0fd5",
             "Value": {
                 "id": "26ed6b71-386e-4090-a3db-a74cbb1bc269",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
