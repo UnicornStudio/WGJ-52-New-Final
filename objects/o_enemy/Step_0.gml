@@ -21,8 +21,6 @@ if cooldown > 0{
 }
 
 if hp <= 0{
-	var d= instance_create_layer(x,y,"Instances",o_enemy_died)
-	d.image_xscale = image_xscale
 	instance_destroy()
 }
 
