@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "39a691e9-762a-4668-8c41-31f694054bbe",
+            "Value": {
+                "id": "68f2fcfd-8b6f-4d50-a090-8c7af0f88467",
+                "resourcePath": "sprites\\s_enemy_3_headshot_left\\s_enemy_3_headshot_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3dfa3862-fe94-4b36-8c4a-7be0c62411fb",
             "Value": {
                 "id": "168b38fe-40dd-40c2-ad8c-0615499fc6d4",
