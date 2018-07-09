@@ -33,9 +33,9 @@ if mouse_x > x{
 }
 
 if hspd != 0 or vspd != 0{
-	sprite_index = s_player_move_male
+	sprite_index = s_player_move_male;
 }else{
-	sprite_index = s_player_idle_male	
+	sprite_index = s_player_idle_male;	
 }
 
 if cooldown > 0{

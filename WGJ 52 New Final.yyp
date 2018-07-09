@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "33d61dfe-12be-4393-9275-cddccaf867d1",
+            "Value": {
+                "id": "4fcecc42-4491-4f59-9fec-e33468d0f184",
+                "resourcePath": "sprites\\s_player_male_walking\\s_player_male_walking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34b030d8-5db9-4d39-aa8e-78bafac40c9d",
             "Value": {
                 "id": "9a23d73e-50f1-4ade-bddd-4e4262dd8249",
