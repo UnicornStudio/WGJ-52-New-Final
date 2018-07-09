@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "06e6ef1e-d4ce-400e-8b2c-b133213505e6",
+            "Value": {
+                "id": "5d294cf5-13e9-4a75-9010-0301502bdf8a",
+                "resourcePath": "sprites\\s_enemy_2_shooting\\s_enemy_2_shooting.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0cb3002a-b066-4283-9126-8ee9a5f3082f",
             "Value": {
                 "id": "b261a6c0-ad5f-4094-bd6f-76778dee4246",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "34b030d8-5db9-4d39-aa8e-78bafac40c9d",
+            "Value": {
+                "id": "9a23d73e-50f1-4ade-bddd-4e4262dd8249",
+                "resourcePath": "sprites\\s_enemy_3_walking\\s_enemy_3_walking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "38eaa194-ed61-4db0-9987-50489deb8bf9",
             "Value": {
                 "id": "51ac24c4-c851-44a4-8799-ebb2e87bcffe",
@@ -171,6 +187,14 @@
             "Value": {
                 "id": "b9b1cb58-1008-4ed0-b359-2bace6e9e7b1",
                 "resourcePath": "views\\4973d81b-1927-4534-b4d5-16a06a2586e6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49cac560-fc56-4c0a-98a8-cf72302cb3b7",
+            "Value": {
+                "id": "d7ccdf61-e821-4328-bb6c-f45ade661d78",
+                "resourcePath": "views\\49cac560-fc56-4c0a-98a8-cf72302cb3b7.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -223,11 +247,27 @@
             }
         },
         {
+            "Key": "6a1dfb53-5dee-4578-ad80-f62956e17c66",
+            "Value": {
+                "id": "b677c510-0e8a-43b3-97e8-83410953f0c5",
+                "resourcePath": "sprites\\s_enemy_1_shooting\\s_enemy_1_shooting.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6be3fd76-234b-49e2-8802-9ef05fad7ea4",
             "Value": {
                 "id": "ef38e29c-c3e0-4de8-ac88-582bc06c8a40",
                 "resourcePath": "views\\6be3fd76-234b-49e2-8802-9ef05fad7ea4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71ca8569-cc18-4ee6-b35d-4e5ce8ca5b31",
+            "Value": {
+                "id": "527d08f7-a8d8-42a4-b8da-9f4e1f50f9bb",
+                "resourcePath": "sprites\\s_enemy_2_walking\\s_enemy_2_walking.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -243,6 +283,14 @@
             "Value": {
                 "id": "a5667686-c3d4-42e9-bcdc-a8880c5de41f",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "805504d2-5e0f-4ef1-83fb-1bd08290a71b",
+            "Value": {
+                "id": "47d1194d-f3f4-4132-b673-e96f4a1db08c",
+                "resourcePath": "sprites\\s_enemy_1_walking\\s_enemy_1_walking.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -383,6 +431,14 @@
             }
         },
         {
+            "Key": "c9c29217-33ee-467b-9453-7216dfc9c4d3",
+            "Value": {
+                "id": "05b89d9b-0e9e-4205-b94f-7fb6e9c06831",
+                "resourcePath": "sprites\\s_enemy_3_shooting_left\\s_enemy_3_shooting_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cab897a7-756c-43c9-9847-56d443180d18",
             "Value": {
                 "id": "c2712b88-12e4-495a-8d84-26fd4c1d5632",
@@ -404,6 +460,14 @@
                 "id": "359eba40-a98d-4ca3-84e7-01a4be5eb320",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d587ef53-5f63-43e9-b68d-afc640e8aa65",
+            "Value": {
+                "id": "53f686ea-f60c-4766-b7dd-e998c6c92f0f",
+                "resourcePath": "sprites\\s_enemy_3_shooting_right\\s_enemy_3_shooting_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
