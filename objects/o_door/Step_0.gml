@@ -5,9 +5,3 @@ o_game.door_cooldown = 8
 o_player.x = exit_pos.x
 o_player.y = exit_pos.y
 }
-
-if instance_number(o_enemy) <= 0{
-	active = true	
-}else{
-	active = false	
-}

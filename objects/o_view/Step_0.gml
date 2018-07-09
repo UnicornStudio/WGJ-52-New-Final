@@ -9,4 +9,4 @@ o_game.y = y
 camera_set_view_pos(view_camera[0],x,y)
 
 instance_deactivate_all(true)
-instance_activate_region(x,y,x+367,y+182,true)
+instance_activate_region(x,y,x+camera_get_view_width(view_camera[0]),y+182,true)
