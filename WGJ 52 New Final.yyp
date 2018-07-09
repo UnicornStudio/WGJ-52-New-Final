@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "2dd91f07-85a0-4c8c-8289-fda3281c4b2e",
+            "Value": {
+                "id": "78cdcb11-30bf-459a-8835-e5ca9a9e3b83",
+                "resourcePath": "sprites\\s_player_male_shooting\\s_player_male_shooting.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2e403087-f2cd-42e5-b554-b1cea566f164",
             "Value": {
                 "id": "ff263277-33b2-4130-ad92-fff8d3db3f4d",
@@ -372,6 +380,14 @@
                 "id": "0f5c917c-7da1-4362-825f-18b9c7567cda",
                 "resourcePath": "views\\98337611-7976-49ec-af34-7e68e53cf6f8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9cb5352a-582a-4ae0-975c-4a8acde4ec29",
+            "Value": {
+                "id": "44e7c4cd-6539-496c-848d-88b51b954926",
+                "resourcePath": "sprites\\s_player_female_shooting\\s_player_female_shooting.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
