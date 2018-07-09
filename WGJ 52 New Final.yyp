@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "bc2fbbb7-bac8-4529-a82d-fb80e362c828",
+            "Value": {
+                "id": "cde94d28-f608-4baa-b083-df79768c3ac4",
+                "resourcePath": "sprites\\s_boss_3_walking\\s_boss_3_walking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bc46c4b8-2e78-4d9e-af89-f48a99c8cc72",
             "Value": {
                 "id": "2559b5ce-5663-4268-9859-387ae1dc6c45",
