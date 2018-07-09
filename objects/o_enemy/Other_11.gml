@@ -2,7 +2,7 @@
 image_speed = 1
 sprite_index = s_enemy_1_walking
 
-if go_cover{
+if go_cover and instance_exists(o_crate){
 	var wall = instance_nearest(x,y,o_crate)
 
 	if distance_to_object(wall) > 24{

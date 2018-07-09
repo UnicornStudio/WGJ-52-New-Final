@@ -11,7 +11,9 @@ if (place_meeting(x+hspd, y, o_solid_parent)) {
 	}
 	hspd = 0
 }
+if !shooting{
 x += hspd;
+}
 
 // Vertical movement
 if (place_meeting(x, y+vspd, o_solid_parent)) {
@@ -20,7 +22,9 @@ if (place_meeting(x, y+vspd, o_solid_parent)) {
 	}
 	vspd = 0
 }
+if !shooting{
 y += vspd;
+}
 
 if mouse_x > x{
 	image_xscale = 1;
