@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "90089ddc-168a-4441-a6e6-a1f0c65d6328",
+            "Value": {
+                "id": "1961a28d-8793-454c-acb4-440936c55d52",
+                "resourcePath": "views\\90089ddc-168a-4441-a6e6-a1f0c65d6328.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "97b6be17-1682-48d9-b60e-d56eebe7ea73",
             "Value": {
                 "id": "39ee1508-4668-4220-b682-a1bef0f3c65b",
@@ -500,6 +508,14 @@
                 "id": "0e519439-4581-4950-beb6-670b3583206a",
                 "resourcePath": "sprites\\s_player_idle_male\\s_player_idle_male.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "efbb09d2-b68b-4103-a2e7-6682503758ce",
+            "Value": {
+                "id": "6009afb0-988d-4380-aa8e-7e6263f6c092",
+                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
