@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "3dfa3862-fe94-4b36-8c4a-7be0c62411fb",
-            "Value": {
-                "id": "168b38fe-40dd-40c2-ad8c-0615499fc6d4",
-                "resourcePath": "sprites\\s_player_move_male\\s_player_move_male.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4082ea1e-da34-4ae1-9377-e7b2acc96c24",
             "Value": {
                 "id": "5b260d42-8b1f-4b5d-a88f-5dcfb9ee2a80",
