@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "49e8a761-31dc-4045-9cd8-40f188ecb8ca",
+            "Value": {
+                "id": "8495e9cb-8c1a-442a-8742-648c9cb0d11d",
+                "resourcePath": "sprites\\s_boss_4_walking_right\\s_boss_4_walking_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d9061c8-2341-42c1-8a8f-84a3f70a7b7e",
             "Value": {
                 "id": "f12f2083-651a-4b41-b9d4-71229f2bddf6",
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "9f1c7a90-6b74-4010-a975-8b5bc9c4601f",
+            "Value": {
+                "id": "2fad365a-376b-4434-91f3-dbbbf009f989",
+                "resourcePath": "sprites\\s_boss_4_walking_left\\s_boss_4_walking_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a07d3e6b-1ef8-4748-845d-5db449fe0fd5",
             "Value": {
                 "id": "26ed6b71-386e-4090-a3db-a74cbb1bc269",
@@ -627,6 +643,14 @@
             "Value": {
                 "id": "53f686ea-f60c-4766-b7dd-e998c6c92f0f",
                 "resourcePath": "sprites\\s_enemy_3_shooting_right\\s_enemy_3_shooting_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d62f4621-3194-46d9-b5c1-14ba80e03944",
+            "Value": {
+                "id": "a5e016d7-1fe0-4e8c-a9e4-343830336393",
+                "resourcePath": "sprites\\s_boss_4_shooting_left\\s_boss_4_shooting_left.yy",
                 "resourceType": "GMSprite"
             }
         },
