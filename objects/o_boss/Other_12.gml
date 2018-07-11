@@ -1,7 +1,7 @@
-/// @desc Aware State
-image_speed = 1
-sprite_index = s_enemy_1_walking
-
+/// @desc Move State
+if distance_to_object(o_player) < 24{
+	state = boss.attack
+}else{
 	if o_player.x > x{
 		hspd = lerp(hspd,spd,0.2)	
 	}else{
@@ -20,9 +20,8 @@ sprite_index = s_enemy_1_walking
 		}
 		hspd = 0
 	}
-	if distance_to_object(o_player) > 16{
 	x += hspd
-	}
+	
 	if place_meeting(x,y+vspd,o_solid_parent){
 		while(!place_meeting(x,y+sign(vspd),o_solid_parent)){
 			y += sign(vspd)
@@ -30,8 +29,4 @@ sprite_index = s_enemy_1_walking
 		vspd = 0
 	}
 	y += vspd
-
-
-if distance_to_object(o_player) > 96{
-	state = enemy.unaware	
 }
