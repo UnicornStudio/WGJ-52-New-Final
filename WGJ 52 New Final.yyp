@@ -295,10 +295,17 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "3d094f4d-da9f-49ad-984e-70bf2cc258d9",
             "Value": {
                 "id": "74d1ea08-3bb8-440e-ba07-3c84495287a6",
                 "resourcePath": "sprites\\s_enemy_2_headshot\\s_enemy_2_headshot.yy",
+=======
+            "Key": "3dfa3862-fe94-4b36-8c4a-7be0c62411fb",
+            "Value": {
+                "id": "168b38fe-40dd-40c2-ad8c-0615499fc6d4",
+                "resourcePath": "sprites\\s_player_move_male\\s_player_move_male.yy",
+>>>>>>> parent of ae96990... Merge branch 'master' of https://github.com/UnicornStudio/WGJ-52-New-Final
                 "resourceType": "GMSprite"
             }
         },
