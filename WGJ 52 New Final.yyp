@@ -471,14 +471,6 @@
             }
         },
         {
-            "Key": "a4517a4e-9386-45b7-b17f-7eecfb38a45f",
-            "Value": {
-                "id": "3f023150-1e38-491e-8b67-414ba6a8d183",
-                "resourcePath": "objects\\o_crate\\o_crate.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a70d48f8-bc5b-41d1-84f1-221617d91ce4",
             "Value": {
                 "id": "6a4319bb-aebe-4969-baba-99eb71aa7f24",
